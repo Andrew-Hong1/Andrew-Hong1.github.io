@@ -2,10 +2,9 @@
 Page made for the UT Austin Data Analysis bootcamp. Provides sample values of different bacteria located inside the belly button of various individuals.
 
 To navigate the website, simply select a Test Subject ID no. from the dropdown menu on the left.
-
 Certain test subject IDs have no data available.
 
-index.html contains the htmml document and code.  
+index.html contains the html document and code.  
 
 the samples.json contains the data.  
 
